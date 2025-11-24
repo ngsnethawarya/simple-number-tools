@@ -12,5 +12,6 @@ This is a simple practice project for beginners.
 ```python
 from number_tools import is_even, square
 
-print(is_even(10))   # True
-print(square(5))     # 25
+print(is_even(10))  # True
+print(square(5))    # 25
+
